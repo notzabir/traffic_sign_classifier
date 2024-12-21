@@ -4,8 +4,17 @@
    ```bash
    python -m venv tf_env
    
-3. Activate the Virtual Environment:
-   For Windows run tf_env\Scripts\activate
-   For macOS/Linux run source tf_env/bin/activate
-4. Note: Tensorflow doesnt work with Python 3.13 latest version, had to downgrade to Python 3.11
-5. pip install tensorflow
+2. **Activate the Virtual Environment**:
+   For Windows run
+   ```
+   tf_env\Scripts\activate
+   ```
+   For macOS/Linux run
+   ```
+   source tf_env/bin/activate
+   ```
+3. Note: Tensorflow doesnt work with Python 3.13 latest version, had to downgrade to Python 3.11
+4. Lastly install tensorflow in your virtual environment
+   ```
+   pip install tensorflow
+   ```
