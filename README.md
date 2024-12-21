@@ -1,7 +1,7 @@
 # Traffic-sign classifier model with Tensorflow
 
 1. Create the Virtual Environment: navigate to your project folder in the terminal and create the virtual environment:
-    python -m venv tf_env
+    '''python -m venv tf_env
 2. Activate the Virtual Environment:
    For Windows run tf_env\Scripts\activate
    For macOS/Linux run source tf_env/bin/activate
